@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virajpatel777
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate with students who are intrested in Java.
+- 🌱 I’m currently doing my Master's in Data Science
+- 💞️ I’m looking to collaborate with students interested in Machine Learning.
 - 📫 How to reach me -- message via github
 
 <!---
